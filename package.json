@@ -5,7 +5,7 @@
   "author": "Lee Henson <lee.m.henson@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fp-ts": "1.13.0",
+    "fp-ts": "1.14.2",
     "io-ts": "1.8.2"
   },
   "devDependencies": {
