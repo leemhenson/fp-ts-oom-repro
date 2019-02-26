@@ -7,10 +7,9 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.9.5.tgz#011eece9d3f839a806b63973e228f85967b79ed3"
   integrity sha512-vVjM0SVzgaOUpflq4GYBvCpozes8OgIIS5gVXVka+OfK3hvnkC1i93U8WiY2OtNE4XUWyyy/86Kf6e0IHTQw1Q==
 
-fp-ts@1.14.1, fp-ts@^1.0.0:
-  version "1.14.1"
-  resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-1.14.1.tgz#de652b8a50f48af805be22dd7fb69f359b2ced6e"
-  integrity sha512-Y6fHvsclMc7Wc8QvEUYzcY+3SNGnAOdhb4Ty6iY5fnSNnroNXH3iyKyr5137GRghPruyBPE46+2Lr4iqe2famw==
+fp-ts@^1.0.0, "fp-ts@https://github.com/leemhenson/fp-ts.git#circular-refs-1-14-2-compiled":
+  version "1.14.2"
+  resolved "https://github.com/leemhenson/fp-ts.git#a1291bf003641b0869a0a07181436401b4d011b5"
 
 io-ts@1.8.2:
   version "1.8.2"
