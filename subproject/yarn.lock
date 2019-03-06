@@ -2,16 +2,9 @@
 # yarn lockfile v1
 
 
-fp-ts@^1.0.0, "fp-ts@https://github.com/leemhenson/fp-ts.git#circular-refs-1-14-2-compiled":
+"fp-ts@https://github.com/leemhenson/fp-ts.git#circular-refs-1-14-2-compiled":
   version "1.14.2"
   resolved "https://github.com/leemhenson/fp-ts.git#a1291bf003641b0869a0a07181436401b4d011b5"
-
-io-ts@1.8.2:
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/io-ts/-/io-ts-1.8.2.tgz#4fe3878c147c9851604d36982ee6f64d3e6a4a1e"
-  integrity sha512-BvP7iC4bgum5e3Fh82xCUrKWt739osKjmQBMORGij2AOMfTmevj8SEqBhN8EeI0GEwIMHb2bXe4fuikN0lsTWg==
-  dependencies:
-    fp-ts "^1.0.0"
 
 typescript@^3.3.3:
   version "3.3.3333"
